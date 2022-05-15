@@ -1,0 +1,22 @@
+body {
+	background-image: url("https://s3-us-west-1.amazonaws.com/gaytravel-blog/plane-family-beach-teerawanit-malikun.jpg");
+}
+
+.indexPageNavBar{
+	color: black;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+.marginTop{
+	margin: 10% 10% 0 10%;
+}
+
+.black{
+	color: black;
+}
+
+
+.white{
+	color: white;
+}

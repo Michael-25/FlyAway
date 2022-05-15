@@ -1,0 +1,22 @@
+body {
+	background-image: url("https://akam.cdn.jdmagicbox.com/images/icontent/travel/flight.jpg");
+}
+
+.indexPageNavBar{
+	color: white;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+.marginTop{
+	margin: 10% 10% 0 10%;
+}
+
+.black{
+	color: black;
+}
+
+
+.white{
+	color: white;
+}
